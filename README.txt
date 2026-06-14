@@ -1,3 +1,6 @@
+FORK - This fork simply removes "type": "static" from bow.json model definitions. This should stop it from crashing on the latest Tetra version (6.14.2).
+*NOTICE*: I have no part in creating/maintaining Tetranomicon! I simply just forked and released this to help people that are experiencing crashes.
+
 Tetranomicon adds Tetra support to resources from many other mods. See CurseForge for details on specific materials.
 
 +----------------------------------+------+------+------+------+
